@@ -18,7 +18,7 @@ Testé sur Livebox 5 firmware 4.34.0 et 4.53.14
 
 ## livebox_disable_wifi_2_4Ghz.sh
 
-Ce script bash vous permet de désactiver l'anteine Wi-Fi 2,4Ghz à distance sur votre Livebox 5 depuis un périphérique de votre réseau local.
+Ce script bash vous permet de désactiver l'antenne Wi-Fi 2,4Ghz à distance sur votre Livebox 5 depuis un périphérique de votre réseau local.
 Les seules dépendances sont `curl` et `jq`.
 
 Testé sur Livebox 5 firmware 4.53.14
